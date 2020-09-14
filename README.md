@@ -1,4 +1,4 @@
-# frontend
+# Todo List (VueJS Client)
 
 ## Project setup
 ```
